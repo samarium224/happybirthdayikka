@@ -7,7 +7,7 @@
     },
     {
       paragraph:
-        "Iqra's birthday was fast approaching, and her friends Samir, Aurin, Raad, Arjun, and Prapti wanted to make this day unforgettable for their beloved dragon girl. They knew Iqra loved adventure and magic, so they decided to plan a surprise celebration in the enchanted forest.",
+        "Iqra's birthday was fast approaching, and her friends Samir, Aurin, Raad, Arjun, Nilormi and Prapti wanted to make this day unforgettable for their beloved dragon girl. They knew Iqra loved adventure and magic, so they decided to plan a surprise celebration in the enchanted forest.",
       imageSrc: "assets/frame2.png"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       paragraph:
-        "As the night drew to a close, Prapti stepped forward and recited her heartfelt poem, expressing their love and admiration for Iqra. The dragon girl's heart was filled with warmth, knowing how lucky she was to have such wonderful friends.",
+        "As the night drew to a close, Prapti and Nilormi stepped forward and recited her heartfelt poem, expressing their love and admiration for Iqra. The dragon girl's heart was filled with warmth, knowing how lucky she was to have such wonderful friends.",
       imageSrc: "assets/frame9.png"
     },
     {
