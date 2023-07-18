@@ -8,4 +8,7 @@ function PlaySound(audioname,loop){
 
     let storyboady = document.getElementById("story-container");
     storyboady.classList.add("story_start");
+
+    let footerboady = document.getElementById("footer-container");
+    footerboady.classList.add("story_start");
 }

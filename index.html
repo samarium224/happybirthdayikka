@@ -42,7 +42,7 @@
             <!-- <img class="image" src="assets/frame1.png" alt="main frame"> -->
         </div>
         <div class="covertext">
-            <h1 class="text-center text-white">This is the start of an epic journey</h1>
+            <h1 class="text-center text-white">This is the start of Iqra's epic journey</h1>
             <center>
                 <button type="button" class="btn btn-outline-light"
                     onclick="PlaySound('assets/drStone.mp3',true)">START</button>
@@ -66,6 +66,13 @@
     <div class="story-start" id="story-container">
         <!-- Paragraphs with images will be dynamically added here -->
     </div>
+    <div class="story-start" id="footer-container">
+        <h2 class="fantasy-text">Happy Birthday, Iqra!<br><br>May your success know no bounds, whether in the real world or the realms of fantasy. 🌟🎂✨</h2>
+        <center>
+            <img class="devpic" src="assets/iqra.jpg" alt="iqra herself"><br><br><br>
+        </center>
+    </div>
+
     <script src="js/main.js"></script>
 
 
@@ -79,7 +86,7 @@
     function handleMouseMove(event) {
         if (event.pageY > startY) {
             // const deltaY = event.pageY - startY; // Calculate the y-axis movement
-            window.scrollBy(0, 8 * 0.5); // Adjust the scrolling speed here
+            window.scrollBy(0, 8 * 0.8); // Adjust the scrolling speed here
         }
         startY = event.pageY; // Update the startY for the next event
     }

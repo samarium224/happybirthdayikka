@@ -22,12 +22,12 @@
     },
     {
       paragraph:
-        "On the day of the celebration, Iqra was surprised to find her friends eagerly waiting for her near the forest entrance. They blindfolded her and led her through a winding path, taking her deeper into the woods.",
+        "On the day of the celebration, Iqra was surprised to find her friends eagerly waiting for her near the forest entrance. They encourage her to close her eyes and follow the magic light.",
       imageSrc: "assets/frame5.png"
     },
     {
       paragraph:
-        "When the blindfold was finally removed, Iqra gasped in awe at the breathtaking sight before her. The glade was transformed into a magical wonderland filled with twinkling lights, colorful flowers, and dragon-shaped lanterns. The fairy lights danced in harmony with the gentle breeze, creating an ethereal ambiance.",
+        "When the blindfold was finally removed, Iqra gasped in awe at the breathtaking sight before her. The glade was transformed into a magical wonderland filled with twinkling lights, colorful flowers. The fairy lights danced in harmony with the gentle breeze, creating an ethereal ambiance.",
       imageSrc: "assets/frame6.png"
     },
     {
